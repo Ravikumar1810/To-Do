@@ -109,7 +109,7 @@ function App() {
 
       {todos.length === 0 ? (
         <div className="mt-6 w-full max-w-md text-center text-gray-600 bg-white px-6 py-4 rounded-lg shadow">
-          No tasks yet. Add your first one ✨
+          No tasks yet. Add your first one 
         </div>
       ) : (
         <ul className="mt-6 space-y-2 w-full max-w-md">
