@@ -17,11 +17,11 @@ It allow users to add, edit and delete task with smooth animations and persisten
 - TailwindCSS
 - Framer Motion
 
-  ## Installation
-  git clone https://github.com/Ravikumar1810/To-Do.git
-  cd To-Do
-  npm install
-  npm run dev
+## Installation
+- git clone https://github.com/Ravikumar1810/To-Do.git
+- cd To-Do
+- npm install
+- npm run dev
 
 ## Deployement
 https://to-do-git-main-ravikumar1810-s-projects.vercel.app/
