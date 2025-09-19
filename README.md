@@ -17,7 +17,7 @@ It allow users to add, edit and delete task with smooth animations and persisten
 - TailwindCSS
 - Framer Motion
 
-  ##Installation
+  ## Installation
   git clone https://github.com/Ravikumar1810/To-Do.git
   cd To-Do
   npm install
